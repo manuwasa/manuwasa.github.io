@@ -1,0 +1,322 @@
+@media (max-width: 600px) {
+  header {
+    height: 100vh !important;
+    overflow: hidden !important;
+  }
+  header h1 {
+    margin-top: 120px !important;
+    text-align: center;
+  }
+  header p {
+    text-align: center;
+  }
+  header img {
+    margin-top: 40px !important;
+  }
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+  background-color: white !important;
+}
+
+.navbar .navbar-nav .nav-item a {
+  font-weight: 400;
+  font-size: 18px;
+  color: #252a34;
+  margin-right: 50px;
+}
+
+.navbar .navbar-nav .nav-item a:hover {
+  color: #08d9d6;
+}
+
+.navbar .btn-contact {
+  border-radius: 5px;
+  border: 2px solid #08d9d6;
+  font-weight: normal;
+  font-size: 18px;
+  color: #08d9d6;
+  width: 101px;
+}
+
+.navbar .btn-contact:hover {
+  background-color: #08d9d6;
+  color: white;
+}
+
+header {
+  background-color: #08d9d6;
+  height: 92vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-right: 50px;
+}
+
+header .bg img {
+  margin-left: 200px !important;
+  margin-top: 30px !important;
+}
+
+header h1 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  letter-spacing: 0.05em;
+  color: white;
+  margin-top: 250px;
+  margin-left: 50px;
+}
+
+header h1 span {
+  color: #252a34;
+}
+
+header p {
+  font-weight: 500;
+  font-size: 30px;
+  color: #252a34;
+  margin-left: 50px;
+}
+
+header img {
+  margin-top: 70px;
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+header img:hover {
+  -webkit-transform: translate(-30px, 30px);
+          transform: translate(-30px, 30px);
+}
+
+.section-about {
+  margin-top: 100px;
+}
+
+.section-about .header p {
+  font-size: 20px;
+  color: #3fc1c9;
+}
+
+.section-about .header h3 {
+  font-weight: 500;
+  font-size: 30px;
+  color: #252a34;
+}
+
+.section-about .header hr {
+  width: 190px;
+  margin: 0;
+  border: 1px solid #252a34;
+}
+
+.section-about .content-container {
+  margin-top: 20px;
+}
+
+.section-about .content-container img {
+  float: left;
+  margin-right: 20px;
+}
+
+.section-about .content-container p {
+  margin-top: -5px;
+  font-weight: 300;
+  font-size: 15px;
+  color: #252a34;
+}
+
+.section-about .content-container p span {
+  font-weight: 400;
+}
+
+.section-about a {
+  text-decoration: none;
+}
+
+.section-about .btn-resume {
+  margin-top: 25px;
+  border-radius: 5px;
+  background: #3fc1c9;
+  font-weight: 500;
+  font-size: 15px;
+  color: #fff;
+}
+
+.section-about .btn-resume:hover {
+  background-color: white;
+  border: 1px solid #3fc1c9;
+  color: #3fc1c9;
+}
+
+.section-about .param {
+  margin-top: 50px;
+}
+
+.section-about .param p {
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.section-skills {
+  margin-top: 100px;
+  background-color: #e3fdfd;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.section-skills .header p {
+  font-size: 20px;
+  color: #3fc1c9;
+}
+
+.section-skills .header h3 {
+  font-weight: 500;
+  font-size: 30px;
+  color: #252a34;
+}
+
+.section-skills .header hr {
+  width: 190px;
+  border: 1px solid #252a34;
+}
+
+.section-skills .card {
+  border: 1px solid #adadad;
+  height: 317px;
+  margin-top: 30px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.section-skills .card:hover {
+  -webkit-transform: translateY(-15px);
+          transform: translateY(-15px);
+  border: 1px solid black;
+}
+
+.section-skills .card .card-header {
+  background-color: white;
+}
+
+.section-skills .card .card-header img {
+  margin-right: 15px;
+}
+
+.section-skills .card .card-header .card-body p {
+  font-weight: 300;
+  font-size: 15px;
+  color: #252a34;
+}
+
+.section-project {
+  margin-top: 100px;
+}
+
+.section-project .header p {
+  font-size: 20px;
+  color: #3fc1c9;
+}
+
+.section-project .header h3 {
+  font-weight: 500;
+  font-size: 30px;
+  color: #252a34;
+}
+
+.section-project .header hr {
+  width: 200px;
+  margin-left: 0;
+  border: 1px solid #252a34;
+}
+
+.section-project .btn-demo {
+  border-radius: 5px;
+  background: #3fc1c9;
+  width: 168px;
+  height: 45px;
+  font-weight: 500;
+  font-size: 20px;
+  color: #e3fdfd;
+}
+
+.section-project .btn-demo:hover {
+  background-color: #e3fdfd;
+  color: #3fc1c9;
+}
+
+.section-contact {
+  margin-top: 100px;
+  background-color: #e3fdfd;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border: 1px solid #3fc1c9;
+}
+
+.section-contact .header p {
+  font-size: 20px;
+  color: #3fc1c9;
+}
+
+.section-contact .header h3 {
+  font-weight: 500;
+  font-size: 30px;
+  color: #252a34;
+}
+
+.section-contact .header hr {
+  width: 230px;
+  margin-left: 0;
+  border: 1px solid #252a34;
+}
+
+footer {
+  margin-top: 100px;
+  background-color: #3fc1c9;
+  padding-top: 35px;
+  padding-bottom: 20px;
+}
+
+footer .foot-image img {
+  max-height: 20px;
+}
+
+footer .foot-image h5 {
+  margin-top: 15px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 0.05em;
+  text-align: left;
+  color: #fff;
+}
+
+footer h5 {
+  margin-top: 15px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: #fff;
+}
+
+footer p {
+  margin-top: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  color: #fff;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer .socmed img {
+  max-height: 20px;
+  margin-right: 10px;
+}
+/*# sourceMappingURL=style.css.map */

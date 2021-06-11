@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="45" viewBox="0 0 38 45">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d1d3d4"/>
+      <stop offset="0.388" stop-color="#d1d3d4"/>
+      <stop offset="1" stop-color="#d1d3d4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e8e7e5"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_x0020_1" transform="translate(44 117)">
+    <g id="_513085304" transform="translate(-44 -117)">
+      <path id="Path_11" data-name="Path 11" d="M34.437,40.625,19,45,3.562,40.625,0,0H38Z" fill="#2062af" fill-rule="evenodd"/>
+      <path id="Path_12" data-name="Path 12" d="M148146,24374v38.221l.031.008,12.5-3.539,2.875-34.689Z" transform="translate(-148127 -24370.709)" fill="#3c9cd7" fill-rule="evenodd"/>
+      <path id="Path_13" data-name="Path 13" d="M61898.047,61190.184l-11.047,4.844.363,4.8,10.684-4.8,11.363-5.117.473-4.9Z" transform="translate(-61879.063 -61176.738)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_14" data-name="Path 14" d="M61887,99621.844l.363,4.8,10.684-4.812V99617Z" transform="translate(-61879.063 -99603.547)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+      <path id="Path_15" data-name="Path 15" d="M148051.828,61186l-11.828,5.188v4.832l11.375-5.113Z" transform="translate(-148021.016 -61177.738)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+      <path id="Path_16" data-name="Path 16" d="M62019,135497l.371,4.8,16.391.047-.371,6.391-5.391,1.594-5.184-1.375-.316-3.969h-4.816l.629,7.672,9.738,3.016,9.688-2.953,1.258-15.219Z" transform="translate(-62011.043 -135478.703)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+      <path id="Path_17" data-name="Path 17" d="M61899.047,135497H61888l.367,4.8,10.68.016Zm0,12.828H61899l-5.187-1.375-.309-3.969h-4.82l.629,7.672,9.738,3.016Z" transform="translate(-61880.063 -135478.703)" fill="rgba(0,0,0,0.05)" fill-rule="evenodd"/>
+      <path id="Path_18" data-name="Path 18" d="M54129,61186h23.883l-.473,4.906h-22.832Z" transform="translate(-54122.059 -61177.738)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+      <path id="Path_19" data-name="Path 19" d="M54141.043,61186H54129l.578,4.906h11.465Z" transform="translate(-54122.059 -61177.738)" fill="rgba(0,0,0,0.05)" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
