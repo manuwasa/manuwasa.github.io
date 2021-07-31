@@ -284,6 +284,11 @@ header img:hover {
   border: 1px solid #252a34;
 }
 
+.section-contact a {
+  text-decoration: none;
+  color: black;
+}
+
 footer {
   margin-top: 100px;
   background-color: #3fc1c9;
