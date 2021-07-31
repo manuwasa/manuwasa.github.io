@@ -100,6 +100,7 @@ header img:hover {
 .section-about .header p {
   font-size: 20px;
   color: #3fc1c9;
+  margin-bottom: 10px;
 }
 
 .section-about .header h3 {
@@ -174,6 +175,7 @@ header img:hover {
 .section-skills .header p {
   font-size: 20px;
   color: #3fc1c9;
+  margin-bottom: 0px;
 }
 
 .section-skills .header h3 {
@@ -188,17 +190,17 @@ header img:hover {
 }
 
 .section-skills .card {
-  border: 1px solid #adadad;
   height: 317px;
   margin-top: 30px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+  -webkit-box-shadow: 3px 3px 6px rgba(109, 109, 109, 0.16);
+          box-shadow: 3px 3px 6px rgba(109, 109, 109, 0.16);
 }
 
 .section-skills .card:hover {
   -webkit-transform: translateY(-15px);
           transform: translateY(-15px);
-  border: 1px solid black;
 }
 
 .section-skills .card .card-header {
@@ -207,6 +209,7 @@ header img:hover {
 
 .section-skills .card .card-header img {
   margin-right: 15px;
+  opacity: 0.7;
 }
 
 .section-skills .card .card-header .card-body p {
