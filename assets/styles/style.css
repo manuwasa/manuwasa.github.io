@@ -137,12 +137,15 @@ header img:hover {
   font-weight: 400;
 }
 
+.section-about .icon-socmed img {
+  margin-right: 8px;
+}
+
 .section-about a {
   text-decoration: none;
 }
 
 .section-about .btn-resume {
-  margin-top: 25px;
   border-radius: 5px;
   background: #3fc1c9;
   font-weight: 500;
@@ -196,6 +199,7 @@ header img:hover {
   transition: 0.5s;
   -webkit-box-shadow: 3px 3px 6px rgba(109, 109, 109, 0.16);
           box-shadow: 3px 3px 6px rgba(109, 109, 109, 0.16);
+  padding-top: 20px;
 }
 
 .section-skills .card:hover {
@@ -205,11 +209,12 @@ header img:hover {
 
 .section-skills .card .card-header {
   background-color: white;
+  border-bottom: none;
 }
 
 .section-skills .card .card-header img {
   margin-right: 15px;
-  opacity: 0.7;
+  opacity: 0.75;
 }
 
 .section-skills .card .card-header .card-body p {
