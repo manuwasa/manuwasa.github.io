@@ -209,6 +209,12 @@ header {
     &:hover {
       transform: translateY(-15px);
     }
+
+    img {
+      width: 38px;
+      height: 45px;
+    }
+
     .card-header {
       background-color: white;
       border-bottom: none;
